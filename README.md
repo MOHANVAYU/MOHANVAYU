@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MOHANVAYU
-- 👀 I’m interested in Data Structures
-- 🌱 I’m currently learning Data Structures
-
+- 👀 I’m interested in full stack , Data Structures
 
 <!---
 MOHANVAYU/MOHANVAYU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
